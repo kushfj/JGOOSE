@@ -1,3 +1,5 @@
+** This project is no longer maintained as its being ported to C **
+
 JGOOSE
 ======
 
